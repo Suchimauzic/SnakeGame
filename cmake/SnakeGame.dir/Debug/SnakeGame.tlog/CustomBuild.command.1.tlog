@@ -1,0 +1,10 @@
+^C:\USERS\СУЧИМАУЗ\DESKTOP\SNAKEGAME\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Сучимауз/Desktop/SnakeGame -BC:/Users/Сучимауз/Desktop/SnakeGame/cmake --check-stamp-file C:/Users/Сучимауз/Desktop/SnakeGame/cmake/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

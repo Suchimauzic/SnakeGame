@@ -1,0 +1,3 @@
+C:/Users/Сучимауз/Desktop/SnakeGame/cmake/CMakeFiles/SnakeGame.dir
+C:/Users/Сучимауз/Desktop/SnakeGame/cmake/CMakeFiles/ALL_BUILD.dir
+C:/Users/Сучимауз/Desktop/SnakeGame/cmake/CMakeFiles/ZERO_CHECK.dir
